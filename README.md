@@ -1,5 +1,5 @@
 ### Hey nerds 👋
-I enjoy coding games, apps, and bots.<br />
+I enjoy coding games, apps, bots and I am constantly looking for a new challenge.<br />
 My first programming language of choice is Java because that is what I have most experience with.<br />
 Occasionally I code in JavaScript and C# and even try out C/C++.<br />
 <br />
