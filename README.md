@@ -1,11 +1,9 @@
 ### Hey nerds :suspect:
-I enjoy coding games, apps, bots and I am constantly looking for a new challenge.<br />
-My first programming language of choice is Java as that is what I have most experience with.<br />
-Occasionally I code in JavaScript and C# and even try out C/C++.<br />
-<br />
-Currently studying as a Java/Javascript developer at EC Utbildning in Malmö, Sweden. :godmode:
-
-
+I enjoy coding games, apps, bots and I am constantly looking for a new challenge.  
+<!-- My first programming language of choice is Java as that is what I have most experience with.  
+Occasionally I code in JavaScript and C# and even try out C/C++.  -->
+  
+Currently studying as a Java/Javascript fullstack developer at EC Utbildning in Malmö, Sweden. :godmode:
 
 <!--
 **PilzHere/PilzHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
