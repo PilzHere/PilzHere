@@ -2,8 +2,12 @@
 I enjoy coding games, apps, bots and I am constantly looking for a new challenge.  
 <!-- My first programming language of choice is Java as that is what I have most experience with.  
 Occasionally I code in JavaScript and C# and even try out C/C++.  -->
+
+## Reach me
+[Website](http://www.pilzhere.net/) [Linkedin](https://www.linkedin.com/in/christianpilzhere/)
   
-Currently studying as a Java/Javascript fullstack developer at EC Utbildning in Malmö, Sweden. :godmode:
+## Status
+I am currently studying as a Java/Javascript fullstack developer at EC Utbildning in Malmö, Sweden. :godmode:
 
 <!--
 **PilzHere/PilzHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
