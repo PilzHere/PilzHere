@@ -1,0 +1,22 @@
+{
+  "name": "pilzhere",
+  "version": "1.0.0",
+  "description": "I enjoy coding games, apps, bots and I am constantly looking for a new challenge.   <!-- My first programming language of choice is Java as that is what I have most experience with.   Occasionally I code in JavaScript and C# and even try out C/C++.  -->",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PilzHere/PilzHere.git"
+  },
+  "author": "PilzHere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PilzHere/PilzHere/issues"
+  },
+  "homepage": "https://github.com/PilzHere/PilzHere#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
