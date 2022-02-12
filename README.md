@@ -4,7 +4,14 @@
     
 I am currently studying as a Java&#x2F;Javascript fullstack developer at EC Utbildning in Malmö, Sweden. :godmode:
     
-Reach me at [my website](http:&#x2F;&#x2F;www.pilzhere.net&#x2F;) or [Linkedin](https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;christianpilzhere&#x2F;).
+Here are the latest posts from [my website](http:&#x2F;&#x2F;www.pilzhere.net&#x2F;)
+    
+[Frag Ztar
+](https:&#x2F;&#x2F;pilzhere.net&#x2F;posts&#x2F;projects&#x2F;frag-ztar&#x2F;)	|	
+    [New website
+](https:&#x2F;&#x2F;pilzhere.net&#x2F;posts&#x2F;my-first-post&#x2F;)	|	
+    [Ultra Nightmare
+](https:&#x2F;&#x2F;pilzhere.net&#x2F;posts&#x2F;projects&#x2F;ultra-nightmare&#x2F;)
 </p>
 <br/>
-<em>Last automatic update Sunday, 6 February, 22:48 CET.</em>
+<em>Last automatic update Saturday, 12 February, 23:27 CET.</em>
