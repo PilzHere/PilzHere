@@ -3,6 +3,8 @@
     I enjoy coding games, apps, bots and I am constantly looking for a new challenge.
     
 Currently I am studying to become a Java&#x2F;Javascript fullstack developer at EC Utbildning in Malmö, Sweden. :godmode:
+    <br/>
+    <br/>
     
 Here are the latest posts from [my website](https:&#x2F;&#x2F;www.pilzhere.net&#x2F;)
     
@@ -14,4 +16,4 @@ Here are the latest posts from [my website](https:&#x2F;&#x2F;www.pilzhere.net&#
 ](https:&#x2F;&#x2F;pilzhere.net&#x2F;posts&#x2F;projects&#x2F;ultra-nightmare&#x2F;)
 </p>
 <br/>
-<em>Last automatic update Saturday, 12 February, 23:41 CET.</em>
+<em>Last automatic update Saturday, 12 February, 23:46 CET.</em>
