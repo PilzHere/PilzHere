@@ -56,8 +56,8 @@ function generateData() {
     DATA = {
         title: "Hey nerds :suspect:",
         info: "I enjoy coding games, apps, bots and I am constantly looking for a new challenge.",
-        status: "\nI am currently studying as a Java/Javascript fullstack developer at EC Utbildning in Malmö, Sweden. :godmode:",
-        website: "\nHere are the latest posts from [my website](http://www.pilzhere.net/)",
+        status: "\nCurrently I am studying to become a Java/Javascript fullstack developer at EC Utbildning in Malmö, Sweden. :godmode:",
+        website: "\nHere are the latest posts from [my website](https://www.pilzhere.net/)",
         webArticle1: `\n[${articles[0].name}](${articles[0].link})\t|\t`,
         webArticle2: `[${articles[1].name}](${articles[1].link})\t|\t`,
         webArticle3: `[${articles[2].name}](${articles[2].link})`,
@@ -89,8 +89,8 @@ async function generateReadMe() {
         const output = Mustache.render(data.toString(), DATA);
         fs.writeFileSync('README.md', output);
     });
-
-    console.log("Done.")
 }
 
 generateReadMe();
+
+console.log("Done.")
