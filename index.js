@@ -77,7 +77,7 @@ function generateData() {
             timeZoneName: 'short',
             timeZone: 'Europe/Stockholm',
         }),
-        footer: "\n![](https://img.shields.io/github/package-json/v/PilzHere/PilzHere?style=flat-square) ![](https://img.shields.io/github/workflow/status/PilzHere/PilzHere/README%20build?label=README&logo=Github&style=flat-square) ![](https://img.shields.io/github/package-json/dependency-version/PilzHere/PilzHere/axios?style=flat-square) ![](https://img.shields.io/github/package-json/dependency-version/PilzHere/PilzHere/cheerio?style=flat-square) ![](https://img.shields.io/github/package-json/dependency-version/PilzHere/PilzHere/mustache?style=flat-square)\n",
+        footer: "\n![](https://img.shields.io/github/stars/PilzHere?style=flat-square) ![](https://img.shields.io/github/package-json/v/PilzHere/PilzHere?style=flat-square) ![](https://img.shields.io/github/workflow/status/PilzHere/PilzHere/README%20build?label=README&logo=Github&style=flat-square) ![](https://img.shields.io/github/package-json/dependency-version/PilzHere/PilzHere/axios?style=flat-square) ![](https://img.shields.io/github/package-json/dependency-version/PilzHere/PilzHere/cheerio?style=flat-square) ![](https://img.shields.io/github/package-json/dependency-version/PilzHere/PilzHere/mustache?style=flat-square)\n",
     };
 }
 
