@@ -14,7 +14,7 @@ async function scrapeData() {
     try {
         const url = "https://www.pilzhere.net/";
         // Fetch HTML of the page we want to scrape
-        const { data } = await axios.get(url);
+        const {data} = await axios.get(url);
         // Load HTML we fetched in the previous line
         const $ = cheerio.load(data);
 
@@ -24,7 +24,7 @@ async function scrapeData() {
         const listArticleDates = $(".post-entry .entry-footer");
 
         listArticleTitles.each((idx, el) => {
-            const article = { name: "", link: "", publishDate: "" };
+            const article = {name: "", link: "", publishDate: ""};
             article.name = $(el).children("h2").text();
 
             articles.push(article);
@@ -53,6 +53,11 @@ function generateData() {
      * the data to be provided to Mustache
      * Notice the "name" and "date" property.
      */
+
+    /** Badges from:
+     * https://github.com/alexandresanlim/Badges4-README.md-Profile#how-to-use
+     */
+
     DATA = {
         title: "Hey nerds :suspect:",
         info: "I enjoy coding games, apps, bots and I am constantly looking for a new challenge.",
@@ -85,7 +90,7 @@ async function generateReadMe() {
 
     generateData();
 
-    fs.readFile(MUSTACHE_MAIN_DIR, (err, data) =>  {
+    fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
         if (err) throw err;
         const output = Mustache.render(data.toString(), DATA);
         fs.writeFileSync('README.md', output);
