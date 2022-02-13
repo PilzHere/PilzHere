@@ -12,7 +12,7 @@ Here&#39;s my tech experience:
     <br/>
     <br/>
     
-Here are the latest posts from ![](https:&#x2F;&#x2F;img.shields.io&#x2F;website?down_color&#x3D;red&amp;down_message&#x3D;down&amp;label&#x3D;pilzhere.net&amp;style&#x3D;flat-square&amp;up_color&#x3D;green&amp;up_message&#x3D;up&amp;url&#x3D;https%3A%2F%2Fpilzhere.net)
+Latest posts from ![https:&#x2F;&#x2F;www.pilzhere.net&#x2F;](https:&#x2F;&#x2F;img.shields.io&#x2F;website?down_color&#x3D;red&amp;down_message&#x3D;down&amp;label&#x3D;pilzhere.net&amp;style&#x3D;flat-square&amp;up_color&#x3D;green&amp;up_message&#x3D;up&amp;url&#x3D;https%3A%2F%2Fpilzhere.net)
     
 [Frag Ztar
 ](https:&#x2F;&#x2F;pilzhere.net&#x2F;posts&#x2F;projects&#x2F;frag-ztar&#x2F;)	|	
@@ -25,4 +25,4 @@ Here are the latest posts from ![](https:&#x2F;&#x2F;img.shields.io&#x2F;website
 
 ![](https:&#x2F;&#x2F;img.shields.io&#x2F;github&#x2F;stars&#x2F;PilzHere?style&#x3D;flat-square) ![](https:&#x2F;&#x2F;img.shields.io&#x2F;github&#x2F;package-json&#x2F;v&#x2F;PilzHere&#x2F;PilzHere?style&#x3D;flat-square) ![](https:&#x2F;&#x2F;img.shields.io&#x2F;github&#x2F;workflow&#x2F;status&#x2F;PilzHere&#x2F;PilzHere&#x2F;README%20build?label&#x3D;README&amp;logo&#x3D;Github&amp;style&#x3D;flat-square) ![](https:&#x2F;&#x2F;img.shields.io&#x2F;github&#x2F;package-json&#x2F;dependency-version&#x2F;PilzHere&#x2F;PilzHere&#x2F;axios?style&#x3D;flat-square) ![](https:&#x2F;&#x2F;img.shields.io&#x2F;github&#x2F;package-json&#x2F;dependency-version&#x2F;PilzHere&#x2F;PilzHere&#x2F;cheerio?style&#x3D;flat-square) ![](https:&#x2F;&#x2F;img.shields.io&#x2F;github&#x2F;package-json&#x2F;dependency-version&#x2F;PilzHere&#x2F;PilzHere&#x2F;mustache?style&#x3D;flat-square)
 
-<em>Last automatic update Sunday, 13 February, 17:15 CET.</em>
+<em>Last automatic update Sunday, 13 February, 17:22 CET.</em>
