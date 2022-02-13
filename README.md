@@ -8,7 +8,7 @@ Currently I am studying to become a Java&#x2F;Javascript fullstack developer at 
     <br/>
     <br/>
     
-Here are the latest posts from [my website](https:&#x2F;&#x2F;www.pilzhere.net&#x2F;)
+Here are the latest posts from my [![Website shields.io](https:&#x2F;&#x2F;img.shields.io&#x2F;website-up-down-green-red&#x2F;http&#x2F;shields.io.svg)](https:&#x2F;&#x2F;www.pilzhere.net&#x2F;)
     
 [Frag Ztar
 ](https:&#x2F;&#x2F;pilzhere.net&#x2F;posts&#x2F;projects&#x2F;frag-ztar&#x2F;)	|	
@@ -18,4 +18,6 @@ Here are the latest posts from [my website](https:&#x2F;&#x2F;www.pilzhere.net&#
 ](https:&#x2F;&#x2F;pilzhere.net&#x2F;posts&#x2F;projects&#x2F;ultra-nightmare&#x2F;)
 </p>
 <br/>
-<em>Last automatic update Sunday, 13 February, 03:16 CET.</em>
+<em>Last automatic update Sunday, 13 February, 03:27 CET.</em>
+
+[![made-with-javascript](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Made%20with-JavaScript-1f425f.svg)](https:&#x2F;&#x2F;www.javascript.com)
