@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: '0 */1 * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   build:
@@ -14,19 +14,24 @@ jobs:
     steps:
       - name: Checkout current repository to Master branch
         uses: actions/checkout@v1
+        
       - name: Setup NodeJs 16.13.2
         uses: actions/setup-node@v1
         with:
           node-version: '16.13.2'
+          
       - name: Cache dependencies and build outputs to improve workflow execution time.
         uses: actions/cache@v1
         with:
           path: node_modules
           key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+          
       - name: Install dependencies
         run: npm install
+        
       - name: Generate README file
         run: node index.js
+        
       - name: Commit and Push new README.md to the repository
         uses: mikeal/publish-to-github-action@master
         env:
